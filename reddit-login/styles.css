@@ -138,3 +138,18 @@ a {
 .a-high {
     font-weight: 700;
 }
+
+
+a:hover{
+    cursor: pointer;
+    opacity: 80%;
+}
+
+.continue-btn:hover {
+    background-color: aqua;
+    transition: 10ms ease-in;
+}
+
+.btn:hover {
+    opacity: 70%;
+}
