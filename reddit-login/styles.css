@@ -138,8 +138,6 @@ a {
 .a-high {
     font-weight: 700;
 }
-
-
 a:hover{
     cursor: pointer;
     opacity: 80%;
