@@ -147,7 +147,7 @@ a:hover{
 
 .continue-btn:hover {
     background-color: aqua;
-    transition: 10ms ease-in;
+    transition: 10ms ease-in-out;
 }
 
 .btn:hover {
