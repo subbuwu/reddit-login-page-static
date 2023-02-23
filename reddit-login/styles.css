@@ -52,7 +52,11 @@ h1  {
     
 }
 
+.continue-btn-text {
+    width: auto;
+    height: auto;
 
+}
 
 .p-small {
     font-family: Noto Sans,sans-serif;
@@ -190,3 +194,16 @@ a:hover{
 }
 
 
+@media only screen and (max-width: 600px) {
+    .continue-btn {
+        width: 60vw;
+        height: 5vh;
+    }
+}
+
+/* @media only screen and (min-width:601px){
+    .continue-btn{
+        width: 50vw;
+        height: 7vh;
+    }
+} */
